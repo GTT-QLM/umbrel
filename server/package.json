@@ -20,7 +20,7 @@
         "globby": "^13.2.0",
         "js-yaml": "^4.1.0",
         "p-retry": "^5.1.2",
-        "systeminformation": "^5.17.16"
+        "systeminformation": "^5.21.7"
     },
     "devDependencies": {
         "caxa": "^3.0.1",
